@@ -1,0 +1,22 @@
+# rustfmt.toml
+
+# Format the contents of macros
+format_macros = true
+
+# Spacing around punctuation
+space_before_colon = false
+space_after_colon = true
+space_before_comma = false
+space_after_comma = true
+
+# Line width and indentation
+max_width = 100
+tab_spaces = 4
+hard_tabs = false
+
+# Comment formatting
+normalize_comments = true
+wrap_comments = true
+
+# Heuristics
+use_small_heuristics = "Max"
