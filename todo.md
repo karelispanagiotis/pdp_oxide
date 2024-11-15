@@ -1,6 +1,6 @@
 ### 22-PDP
 
-- [ ] amplifiers
+- [x] amplifiers
 - [ ] citycirc
 - [ ] cocktails
 - [ ] escape
