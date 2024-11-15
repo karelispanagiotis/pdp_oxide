@@ -77,33 +77,33 @@
 ### 27-PDP
 
 - [ ] aces
-- [ ]airports
-- [ ]efimerides
-- [ ]elev3
-- [ ]happy
-- [ ]maxzero
-- [ ]metoxes
-- [ ]share
-- [ ]sumx
-- [ ]supermarket
-- [ ]twosqr
-- [ ]xxx
+- [ ] airports
+- [ ] efimerides
+- [ ] elev3
+- [ ] happy
+- [ ] maxzero
+- [ ] metoxes
+- [ ] share
+- [ ] sumx
+- [ ] supermarket
+- [ ] twosqr
+- [ ] xxx
 
 ### 28-PDP
 
-- [ ]aris
-- [ ]bicycle
-- [ ]bookeaters
-- [ ]chef
-- [ ]critical
-- [ ]kite
-- [ ]metoxes2
-- [ ]schoolnet
-- [ ]scrabble1d
-- [ ]testdata
-- [ ]skitrip
-- [ ]starwars
-- [ ]sumofcubes
+- [ ] aris
+- [ ] bicycle
+- [ ] bookeaters
+- [ ] chef
+- [ ] critical
+- [ ] kite
+- [ ] metoxes2
+- [ ] schoolnet
+- [ ] scrabble1d
+- [ ] testdata
+- [ ] skitrip
+- [ ] starwars
+- [ ] sumofcubes
 
 ### 29-PDP
 
