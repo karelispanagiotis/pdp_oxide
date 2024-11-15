@@ -65,7 +65,7 @@ impl SegmentTree {
     }
 
     fn get(&self, i: usize) -> i32 {
-        return self.a[i];
+        self.a[i]
     }
 }
 
