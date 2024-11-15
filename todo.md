@@ -12,7 +12,7 @@
 - [ ] matrix
 - [ ] rdigits
 - [ ] servers
-- [ ] sumofpow
+- [x] sumofpow
 
 ### 23-PDP
 
