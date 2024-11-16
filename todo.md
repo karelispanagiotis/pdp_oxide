@@ -2,7 +2,7 @@
 
 - [x] amplifiers
 - [x] citycirc
-- [ ] cocktails
+- [x] cocktails
 - [ ] escape
 - [ ] fire
 - [ ] flowers
