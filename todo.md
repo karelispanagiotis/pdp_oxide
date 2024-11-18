@@ -7,7 +7,7 @@
 - [ ] fire
 - [ ] flowers
 - [ ] getout
-- [ ] hydrogen
+- [x] hydrogen
 - [ ] lines_man
 - [ ] matrix
 - [ ] rdigits
