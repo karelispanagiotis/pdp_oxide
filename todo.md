@@ -8,7 +8,7 @@
 - [ ] flowers
 - [ ] getout
 - [x] hydrogen
-- [ ] lines_man
+- [x] lines_man
 - [ ] matrix
 - [ ] rdigits
 - [ ] servers
