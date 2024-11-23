@@ -11,7 +11,7 @@
 - [x] lines_man
 - [ ] matrix
 - [ ] rdigits
-- [ ] servers
+- [x] servers
 - [x] sumofpow
 
 ### 23-PDP
