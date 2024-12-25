@@ -4,7 +4,7 @@
 - [x] citycirc
 - [x] cocktails
 - [ ] escape
-- [ ] fire
+- [x] fire
 - [ ] flowers
 - [ ] getout
 - [x] hydrogen
