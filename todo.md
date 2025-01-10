@@ -10,7 +10,7 @@
 - [x] hydrogen
 - [x] lines_man
 - [ ] matrix
-- [ ] rdigits
+- [x] rdigits
 - [x] servers
 - [x] sumofpow
 
