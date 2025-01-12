@@ -5,7 +5,7 @@
 - [x] cocktails
 - [ ] escape
 - [x] fire
-- [ ] flowers
+- [x] flowers
 - [ ] getout
 - [x] hydrogen
 - [x] lines_man
