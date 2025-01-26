@@ -6,7 +6,7 @@
 - [ ] escape
 - [x] fire
 - [x] flowers
-- [ ] getout
+- [x] getout
 - [x] hydrogen
 - [x] lines_man
 - [ ] matrix
