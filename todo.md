@@ -24,7 +24,7 @@
 - [ ] newroad
 - [ ] oddeven
 - [ ] prevdiv
-- [ ] profit
+- [x] profit
 - [ ] restaurants
 - [ ] snow_run
 - [ ] toponyms
