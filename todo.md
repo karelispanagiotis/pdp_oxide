@@ -26,7 +26,7 @@
 - [ ] prevdiv
 - [x] profit
 - [ ] restaurants
-- [ ] snow_run
+- [x] snow_run
 - [ ] toponyms
 
 ### 24-PDP
