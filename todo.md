@@ -18,7 +18,7 @@
 
 - [ ] anneal
 - [ ] books
-- [ ] company
+- [x] company
 - [ ] fishboats
 - [ ] intvsum
 - [ ] newroad
