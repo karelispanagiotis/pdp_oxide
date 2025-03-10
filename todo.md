@@ -23,7 +23,7 @@
 - [ ] intvsum
 - [ ] newroad
 - [ ] oddeven
-- [ ] prevdiv
+- [x] prevdiv
 - [x] profit
 - [ ] restaurants
 - [x] snow_run
